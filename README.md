@@ -10,7 +10,7 @@ The original layout WAS NOT made by me. I only chose one that would challenge me
 
 Original source: https://templated.co/binary
 
-My result: https:///maxrandrade.github.io/Binary
+My result: https://maxrandrade.github.io/Binary/
 
 Since I was so immersed in this practice, I thought it would be nice if we could swap the image and text order as wanted without messing up with the color scheme, so I did it.
 
